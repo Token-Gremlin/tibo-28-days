@@ -6,5 +6,5 @@ html=open(f"{D}/template.html").read().replace("__DATA__",json.dumps(data,ensure
 open(f"{D}/index.html","w").write(html)
 rows=(data["total"]+3)//4
 subprocess.run(["google-chrome","--headless=new","--no-sandbox","--disable-gpu","--hide-scrollbars","--allow-file-access-from-files",
- f"--window-size=1600,{1680+0*rows}",f"--screenshot={D}/visual.png",f"file://{D}/index.html"],check=True,capture_output=True)
+ f"--window-size=1600,{1960+0*rows}",f"--screenshot={D}/visual.png",f"file://{D}/index.html"],check=True,capture_output=True)
 print("ok")

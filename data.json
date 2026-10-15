@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-15 19:50",
+ "updated": "2026-10-15 19:55",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -27,8 +27,13 @@
    ],
    "items": [
     {
-     "en": "Reply: reaching 50 TPS instead of 30 TPS, with a highly optimized tokenizer.",
-     "pt": "Resposta: 50 TPS em vez de 30 TPS, com tokenizer bem otimizado.",
+     "en": "~50% faster default speed for GPT-6 Astra & GPT-6.1 Sol across products and Sign in with ChatGPT partners; felt within 2 hours.",
+     "pt": "Velocidade padrão ~50% maior no GPT-6 Astra e GPT-6.1 Sol em todos os produtos e parceiros; efeito em até 2 horas.",
+     "url": "https://x.com/i/status/2107158998495748264"
+    },
+    {
+     "en": "Reaching 50 TPS instead of 30 TPS, with a highly optimized tokenizer.",
+     "pt": "50 TPS em vez de 30 TPS, com tokenizer bem otimizado.",
      "url": "https://x.com/i/status/2107159119107146237"
     }
    ]
@@ -60,8 +65,33 @@
    ],
    "items": [
     {
-     "en": "Vote won by 'reset': full usage reset processed, improvements kept.",
-     "pt": "A votação deu 'reset': reset completo feito, sem desfazer as melhorias.",
+     "en": "2.1 Auto-review ('Approve for me') free for ChatGPT sign-ins, no plan usage.",
+     "pt": "2.1 Auto-review ('Approve for me') grátis pra quem entra com conta ChatGPT, sem gastar uso.",
+     "url": "https://x.com/i/status/2107368734981517634"
+    },
+    {
+     "en": "Enable via the permissions menu below the composer → 'Approve for me'.",
+     "pt": "Ativa no menu de permissões abaixo do composer → 'Approve for me'.",
+     "url": "https://x.com/i/status/2107504197012988007"
+    },
+    {
+     "en": "2.2 Less friction when building on the API.",
+     "pt": "2.2 Menos atrito pra construir na API.",
+     "url": "https://x.com/i/status/2107548725359104441"
+    },
+    {
+     "en": "2.3 Meeting notes integrated: load conversation context into Codex.",
+     "pt": "2.3 Notas de reunião integradas: leva o contexto da conversa pro Codex.",
+     "url": "https://x.com/i/status/2107573405553938664"
+    },
+    {
+     "en": "2.4 Decisions API live (realtime general classifier).",
+     "pt": "2.4 Decisions API no ar (classificador geral em tempo real).",
+     "url": "https://x.com/i/status/2107574912349303197"
+    },
+    {
+     "en": "Community vote picked 'reset': full reset processed, improvements kept.",
+     "pt": "A votação escolheu 'reset': reset completo feito, melhorias mantidas.",
      "url": "https://x.com/i/status/2107676072871600470"
     }
    ]
@@ -110,9 +140,19 @@
      "url": "https://x.com/i/status/2107913674593644711"
     },
     {
+     "en": "Reset confirmed landed across all accounts.",
+     "pt": "Reset confirmado em todas as contas.",
+     "url": "https://x.com/i/status/2108040921044639779"
+    },
+    {
      "en": "Encore: Codex Cloud silently re-shipped.",
      "pt": "Encore: Codex Cloud relançado.",
      "url": "https://x.com/i/status/2108084615349170480"
+    },
+    {
+     "en": "Codex Cloud can connect to your tailnet via Tailscale.",
+     "pt": "O Codex Cloud conecta à sua tailnet via Tailscale.",
+     "url": "https://x.com/Tailscale/status/2107836671605551217"
     }
    ],
    "note": "Tibo's Day 3 post only says 'The big one is GPT-6 in Chat'. OpenAI calls the feature 'Intelligent UI' (not 'Smart UI'); the GPT-6 Sol detail comes from OpenAI's thread."
@@ -130,6 +170,18 @@
    "url": "https://x.com/i/status/2108275041276420573",
    "urls": [
     "https://x.com/i/status/2108275041276420573"
+   ],
+   "items": [
+    {
+     "en": "Instant steering: model reacts to your adjustments in realtime.",
+     "pt": "Steering instantâneo: o modelo reage aos seus ajustes em tempo real.",
+     "url": "https://x.com/i/status/2108275041276420573"
+    },
+    {
+     "en": "GPT-6.1 Sol Ultrafast in API, Codex & ChatGPT Work — up to 8x faster than Sol Standard.",
+     "pt": "GPT-6.1 Sol Ultrafast na API, Codex e ChatGPT Work — até 8x mais rápido que o Sol Standard.",
+     "url": "https://x.com/OpenAIDevs/status/2108262812489531498"
+    }
    ]
   },
   {
@@ -147,6 +199,28 @@
    "urls": [
     "https://x.com/i/status/2108645667451318747",
     "https://x.com/i/status/2108646052178092403"
+   ],
+   "items": [
+    {
+     "en": "Composer predictions in the desktop app, included in Pro without usage.",
+     "pt": "Previsões no composer do app desktop, no Pro sem gastar uso.",
+     "url": "https://x.com/i/status/2108645667451318747"
+    },
+    {
+     "en": "Beta for Pro: Codex suggests your next message from the conversation.",
+     "pt": "Beta no Pro: o Codex sugere sua próxima mensagem com base na conversa.",
+     "url": "https://x.com/OpenAIDevs/status/2108624138369929725"
+    },
+    {
+     "en": "Dots edition: create and text your dot from the ChatGPT mobile app.",
+     "pt": "Edição dots: crie e converse com seu dot no app mobile do ChatGPT.",
+     "url": "https://x.com/i/status/2108646052178092403"
+    },
+    {
+     "en": "Dots creation now on ChatGPT for iOS and Android.",
+     "pt": "Criação de dots agora no ChatGPT pra iOS e Android.",
+     "url": "https://x.com/ChatGPT/status/2108636745915052037"
+    }
    ]
   },
   {
@@ -162,6 +236,18 @@
    "url": "https://x.com/i/status/2109045220411351517",
    "urls": [
     "https://x.com/i/status/2109045220411351517"
+   ],
+   "items": [
+    {
+     "en": "Day 6: Reset.",
+     "pt": "Day 6: Reset.",
+     "url": "https://x.com/i/status/2109045220411351517"
+    },
+    {
+     "en": "Global reset by EOD.",
+     "pt": "Reset global até o fim do dia.",
+     "url": "https://x.com/i/status/2109045392684032299"
+    }
    ]
   },
   {
@@ -180,8 +266,13 @@
    ],
    "items": [
     {
-     "en": "Reply: no long-context fees for GPT-6.1 Sol when drawing usage from the subscription.",
-     "pt": "Resposta: sem taxa de contexto longo no GPT-6.1 Sol usando a assinatura.",
+     "en": "Default context for GPT-6.1 Sol in Codex & Work: 272k → 500k (overridable, max 1M).",
+     "pt": "Contexto padrão do GPT-6.1 Sol no Codex e Work: 272k → 500k (ajustável, máx. 1M).",
+     "url": "https://x.com/i/status/2109430343346581527"
+    },
+    {
+     "en": "No long-context fees for GPT-6.1 Sol when using the subscription.",
+     "pt": "Sem taxa de contexto longo no GPT-6.1 Sol usando a assinatura.",
      "url": "https://x.com/i/status/2109430894604026039"
     }
    ]
@@ -199,6 +290,23 @@
    "url": "https://x.com/i/status/2109812216212099456",
    "urls": [
     "https://x.com/i/status/2109812216212099456"
+   ],
+   "items": [
+    {
+     "en": "Day 8: Reset.",
+     "pt": "Day 8: Reset.",
+     "url": "https://x.com/i/status/2109812216212099456"
+    },
+    {
+     "en": "Global reset landing by EOD PST.",
+     "pt": "Reset global até o fim do dia (PST).",
+     "url": "https://x.com/i/status/2109812360596865224"
+    },
+    {
+     "en": "Confirmed: reset done.",
+     "pt": "Confirmado: reset concluído.",
+     "url": "https://x.com/i/status/2109873287853707513"
+    }
    ]
   },
   {
@@ -215,6 +323,13 @@
    "url": "https://x.com/i/status/2110151780478927344",
    "urls": [
     "https://x.com/i/status/2110151780478927344"
+   ],
+   "items": [
+    {
+     "en": "Desktop app (ChatGPT & Codex) stores ~60% less state on disk.",
+     "pt": "App desktop (ChatGPT e Codex) usa ~60% menos disco.",
+     "url": "https://x.com/i/status/2110151780478927344"
+    }
    ]
   },
   {
@@ -230,6 +345,18 @@
    "url": "https://x.com/i/status/2110595484180214059",
    "urls": [
     "https://x.com/i/status/2110595484180214059"
+   ],
+   "items": [
+    {
+     "en": "Day 10: Reset.",
+     "pt": "Day 10: Reset.",
+     "url": "https://x.com/i/status/2110595484180214059"
+    },
+    {
+     "en": "Landing within the next 2 hours.",
+     "pt": "Chega nas próximas 2 horas.",
+     "url": "https://x.com/i/status/2110595554036400151"
+    }
    ]
   },
   {
@@ -245,6 +372,18 @@
    "url": "https://x.com/i/status/2110750421367287996",
    "urls": [
     "https://x.com/i/status/2110750421367287996"
+   ],
+   "items": [
+    {
+     "en": "More compute + changes to sharply reduce 'Selected model is at capacity' errors.",
+     "pt": "Mais compute e ajustes pra reduzir muito o erro 'Selected model is at capacity'.",
+     "url": "https://x.com/i/status/2110750421367287996"
+    },
+    {
+     "en": "When it happens, the task auto-continues instead of blocking.",
+     "pt": "Quando acontecer, a tarefa continua sozinha em vez de travar.",
+     "url": "https://x.com/i/status/2110750421367287996"
+    }
    ]
   }
  ]
