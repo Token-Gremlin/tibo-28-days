@@ -1,0 +1,47 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>28 Days of Codex Improvements · tracker</title>
+<style>
+:root{--bg:#0b0d12;--card:#141821;--line:#232a36;--txt:#e8ecf3;--mut:#8b95a7;--acc:#7c9cff}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(1200px 600px at 20% -10%,#1b2340 0,transparent 60%),var(--bg);color:var(--txt);font:15px/1.5 Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+.wrap{max-width:1560px;margin:0 auto;padding:48px 40px}
+h1{font-size:44px;margin:0;letter-spacing:-.02em}h1 span{background:linear-gradient(90deg,#7c9cff,#c38bff);-webkit-background-clip:text;color:transparent}
+.sub{color:var(--mut);margin:8px 0 24px}.sub a{color:var(--acc);text-decoration:none}
+.prog{display:flex;align-items:center;gap:16px;margin-bottom:14px}.bar{flex:1;height:14px;background:#1a1f2b;border-radius:99px;overflow:hidden;border:1px solid var(--line)}
+.bar i{display:block;height:100%;background:linear-gradient(90deg,#7c9cff,#c38bff)}.pn{font-weight:700;font-size:20px}
+.legend{display:flex;flex-wrap:wrap;gap:10px;margin:10px 0 28px}.chip{padding:4px 12px;border-radius:99px;font-size:13px;border:1px solid var(--line);background:#11151d}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.card{display:block;text-decoration:none;color:inherit;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px;position:relative;min-height:150px;transition:.15s}
+a.card:hover{transform:translateY(-2px);border-color:var(--acc)}
+.card .n{font-size:13px;color:var(--mut);display:flex;justify-content:space-between}.card .n b{font-size:26px;color:var(--txt)}
+.card p{margin:10px 0 12px;font-size:15px}.card .tag{font-size:12px;padding:2px 10px;border-radius:99px}
+.card.ph{opacity:.35;border-style:dashed;display:flex;align-items:center;justify-content:center;min-height:90px}
+.card.reset{background:linear-gradient(135deg,#2a1a3a,#141821)}
+.ann{background:#10141c;border:1px solid var(--line);border-left:3px solid var(--acc);padding:12px 16px;border-radius:10px;margin-bottom:22px;color:#c9d1de}.ann a{color:var(--acc)}
+footer{margin-top:28px;color:var(--mut);font-size:13px;display:flex;justify-content:space-between}
+</style></head><body><div class="wrap">
+<h1><span>28 Days</span> of Codex Improvements</h1>
+<div class="sub" id="sub"></div><div class="ann" id="ann"></div>
+<div class="prog"><div class="bar"><i id="bar"></i></div><div class="pn" id="pn"></div></div>
+<div class="legend" id="legend"></div><div class="grid" id="grid"></div>
+<footer><span>Compiled by <b>@TokenGremlin</b> · Not affiliated with OpenAI · Each card links to the original post</span><span id="upd"></span></footer>
+</div>
+<script id="embedded" type="application/json">__DATA__</script>
+<script>
+const C={"speed":"#3ddc97","features":"#7c9cff","capacity/limits":"#ffb547","reliability":"#4cc9f0","reset":"#c38bff","pricing":"#ff6b8a"};
+const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function render(d){
+ const days=d.days.sort((a,b)=>a.day-b.day),done=Math.max(0,...days.map(x=>x.day));
+ sub.innerHTML=`Daily ships from <a href="https://x.com/thsottiaux">${d.author}</a> (OpenAI · Codex): one clear improvement or a full usage reset, every day for 28 days.`;
+ ann.innerHTML=`📣 ${esc(d.announcement.text)} — <a href="${d.announcement.url}" target="_blank">announcement</a>`;
+ bar.style.width=(done/d.total*100)+"%";pn.textContent=`Day ${done}/${d.total}`;
+ const cnt={};days.forEach(x=>cnt[x.category]=(cnt[x.category]||0)+1);
+ legend.innerHTML=Object.entries(cnt).map(([k,v])=>`<span class="chip" style="color:${C[k]||'#ccc'}">● ${k} · ${v}</span>`).join("");
+ const by={};days.forEach(x=>by[x.day]=x);let h="";
+ for(let i=1;i<=d.total;i++){const x=by[i];
+  if(!x){h+=`<div class="card ph">${i<=done?'Day '+i+' · not found':'Day '+i+' · upcoming'}</div>`;continue}
+  const c=C[x.category]||"#ccc";
+  h+=`<a class="card ${x.category=='reset'?'reset':''}" href="${x.url}" target="_blank"><div class="n"><b>Day ${x.day}</b><span>${x.date.slice(5,10).replace('-','/')}</span></div><p>${esc(x.en)}</p><span class="tag" style="color:${c};border:1px solid ${c}55">${x.category}</span></a>`}
+ grid.innerHTML=h;upd.textContent=`Updated ${d.updated} ${d.timezone}`;
+}
+fetch("data.json",{cache:"no-store"}).then(r=>r.json()).then(render).catch(()=>render(JSON.parse(embedded.textContent)));
+</script></body></html>
