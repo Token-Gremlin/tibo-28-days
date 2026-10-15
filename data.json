@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-15 19:40",
+ "updated": "2026-10-15 19:50",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -24,6 +24,13 @@
    "url": "https://x.com/i/status/2107158998495748264",
    "urls": [
     "https://x.com/i/status/2107158998495748264"
+   ],
+   "items": [
+    {
+     "en": "Reply: reaching 50 TPS instead of 30 TPS, with a highly optimized tokenizer.",
+     "pt": "Resposta: 50 TPS em vez de 30 TPS, com tokenizer bem otimizado.",
+     "url": "https://x.com/i/status/2107159119107146237"
+    }
    ]
   },
   {
@@ -34,12 +41,13 @@
     "2107548725359104441",
     "2107573405553938664",
     "2107574912349303197",
-    "2107575657014468879"
+    "2107575657014468879",
+    "2107676072871600470"
    ],
    "category": "features",
    "text": "Roundup of Day 2/\n\n2.1/ Approve for me (auto-review) is now included and does not use usage. Can be between 2-10% of plan when used. Also better for you.\n2.2/ Simplified API for builders.\n2.3/ Meeting notes integrated.\n2.4/ Decisions API live for builders. Will use in the app to improve the experience.",
-   "en": "4 ships: free Auto-review (no usage), simpler API, meeting notes in Codex, Decisions API.",
-   "pt": "4 entregas: Auto-review grátis (sem gastar uso), API simplificada, notas de reunião no Codex e Decisions API.",
+   "en": "4 ships: free Auto-review, simpler API, meeting notes, Decisions API — plus a full reset after a community vote.",
+   "pt": "4 entregas: Auto-review grátis, API simplificada, notas de reunião, Decisions API — e ainda um reset completo após votação.",
    "note": "Posted as Day 2.1–2.4 (Oct 6, 04:13–17:53 BRT) plus a roundup; followed by a poll 'Four updates or a reset'.",
    "url": "https://x.com/i/status/2107368734981517634",
    "urls": [
@@ -47,7 +55,15 @@
     "https://x.com/i/status/2107548725359104441",
     "https://x.com/i/status/2107573405553938664",
     "https://x.com/i/status/2107574912349303197",
-    "https://x.com/i/status/2107575657014468879"
+    "https://x.com/i/status/2107575657014468879",
+    "https://x.com/i/status/2107676072871600470"
+   ],
+   "items": [
+    {
+     "en": "Vote won by 'reset': full usage reset processed, improvements kept.",
+     "pt": "A votação deu 'reset': reset completo feito, sem desfazer as melhorias.",
+     "url": "https://x.com/i/status/2107676072871600470"
+    }
    ]
   },
   {
@@ -55,17 +71,51 @@
    "date": "2026-10-07 16:19",
    "ids": [
     "2107913674593644711",
-    "2108084615349170480"
+    "2108084615349170480",
+    "2107912709715132482",
+    "2107894997538525580",
+    "2107895006350791071"
    ],
-   "category": "capacity/limits",
+   "category": "features",
    "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGPT Work.\n\nLoading a banked reset in everyone's paid accounts. See you again tomorrow!\n\n---\nDay 3 (encore)/\n\nWe silently re-shipped codex cloud. It’s pretty good now",
-   "en": "Banked usage reset for all paid accounts (40M active users milestone) + re-shipped Codex Cloud.",
-   "pt": "Reset de uso “guardado” em todas as contas pagas (marco de 40M usuários) + Codex Cloud relançado.",
+   "en": "GPT-6 with Intelligent UI in ChatGPT (powered by GPT-6 Sol on paid tiers) + banked reset for paid accounts + re-shipped Codex Cloud.",
+   "pt": "GPT-6 com Intelligent UI no ChatGPT (GPT-6 Sol nos planos pagos) + reset guardado nas contas pagas + Codex Cloud relançado.",
    "url": "https://x.com/i/status/2107913674593644711",
    "urls": [
     "https://x.com/i/status/2107913674593644711",
-    "https://x.com/i/status/2108084615349170480"
-   ]
+    "https://x.com/i/status/2108084615349170480",
+    "https://x.com/i/status/2107912709715132482",
+    "https://x.com/i/status/2107894997538525580",
+    "https://x.com/i/status/2107895006350791071"
+   ],
+   "items": [
+    {
+     "en": "GPT-6 in Chat: new GPT-6 for all ChatGPT users (Tibo, quoting OpenAI).",
+     "pt": "GPT-6 no Chat: novo GPT-6 pra todos no ChatGPT (Tibo citando a OpenAI).",
+     "url": "https://x.com/i/status/2107912709715132482"
+    },
+    {
+     "en": "Intelligent UI: fast, interactive, more visual answers in ChatGPT.",
+     "pt": "Intelligent UI: respostas rápidas, interativas e mais visuais no ChatGPT.",
+     "url": "https://x.com/OpenAI/status/2107894997538525580"
+    },
+    {
+     "en": "GPT-6 Sol powers GPT-6 in ChatGPT for Plus/Pro/Business/Enterprise (Luna for Free/Go).",
+     "pt": "GPT-6 Sol roda o GPT-6 no ChatGPT pra Plus/Pro/Business/Enterprise (Luna no Free/Go).",
+     "url": "https://x.com/OpenAI/status/2107895006350791071"
+    },
+    {
+     "en": "Banked usage reset for all paid accounts; 40M active users.",
+     "pt": "Reset guardado em todas as contas pagas; 40M usuários ativos.",
+     "url": "https://x.com/i/status/2107913674593644711"
+    },
+    {
+     "en": "Encore: Codex Cloud silently re-shipped.",
+     "pt": "Encore: Codex Cloud relançado.",
+     "url": "https://x.com/i/status/2108084615349170480"
+    }
+   ],
+   "note": "Tibo's Day 3 post only says 'The big one is GPT-6 in Chat'. OpenAI calls the feature 'Intelligent UI' (not 'Smart UI'); the GPT-6 Sol detail comes from OpenAI's thread."
   },
   {
    "day": 4,
@@ -127,6 +177,13 @@
    "url": "https://x.com/i/status/2109430343346581527",
    "urls": [
     "https://x.com/i/status/2109430343346581527"
+   ],
+   "items": [
+    {
+     "en": "Reply: no long-context fees for GPT-6.1 Sol when drawing usage from the subscription.",
+     "pt": "Resposta: sem taxa de contexto longo no GPT-6.1 Sol usando a assinatura.",
+     "url": "https://x.com/i/status/2109430894604026039"
+    }
    ]
   },
   {
