@@ -1,0 +1,194 @@
+{
+ "title": "28 Days of Codex Improvements",
+ "author": "@thsottiaux",
+ "compiled_by": "@TokenGremlin",
+ "timezone": "BRT (UTC-3)",
+ "updated": "2026-10-15 19:40",
+ "total": 28,
+ "announcement": {
+  "date": "2026-10-04 17:33",
+  "url": "https://x.com/i/status/2106845241357824205",
+  "text": "Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the improvements begin."
+ },
+ "days": [
+  {
+   "day": 1,
+   "date": "2026-10-05 14:20",
+   "ids": [
+    "2107158998495748264"
+   ],
+   "category": "speed",
+   "text": "Day 1/\n\nWe have optimized the default speed to be ~50% faster across GPT-6 Astra and GPT-6.1 Sol through the subscription across all our products and partners using Sign in With ChatGPT (including OpenCode, Pi, Amp, Devin, ...).\n\nNo changes needed on your end and this should be felt within the next two hours.",
+   "en": "~50% faster default speed for GPT-6 Astra & GPT-6.1 Sol on subscriptions, incl. Sign in with ChatGPT partners.",
+   "pt": "Velocidade padrão ~50% maior no GPT-6 Astra e GPT-6.1 Sol nas assinaturas, inclusive parceiros (OpenCode, Amp, Devin…).",
+   "url": "https://x.com/i/status/2107158998495748264",
+   "urls": [
+    "https://x.com/i/status/2107158998495748264"
+   ]
+  },
+  {
+   "day": 2,
+   "date": "2026-10-06 04:13",
+   "ids": [
+    "2107368734981517634",
+    "2107548725359104441",
+    "2107573405553938664",
+    "2107574912349303197",
+    "2107575657014468879"
+   ],
+   "category": "features",
+   "text": "Roundup of Day 2/\n\n2.1/ Approve for me (auto-review) is now included and does not use usage. Can be between 2-10% of plan when used. Also better for you.\n2.2/ Simplified API for builders.\n2.3/ Meeting notes integrated.\n2.4/ Decisions API live for builders. Will use in the app to improve the experience.",
+   "en": "4 ships: free Auto-review (no usage), simpler API, meeting notes in Codex, Decisions API.",
+   "pt": "4 entregas: Auto-review grátis (sem gastar uso), API simplificada, notas de reunião no Codex e Decisions API.",
+   "note": "Posted as Day 2.1–2.4 (Oct 6, 04:13–17:53 BRT) plus a roundup; followed by a poll 'Four updates or a reset'.",
+   "url": "https://x.com/i/status/2107368734981517634",
+   "urls": [
+    "https://x.com/i/status/2107368734981517634",
+    "https://x.com/i/status/2107548725359104441",
+    "https://x.com/i/status/2107573405553938664",
+    "https://x.com/i/status/2107574912349303197",
+    "https://x.com/i/status/2107575657014468879"
+   ]
+  },
+  {
+   "day": 3,
+   "date": "2026-10-07 16:19",
+   "ids": [
+    "2107913674593644711",
+    "2108084615349170480"
+   ],
+   "category": "capacity/limits",
+   "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGPT Work.\n\nLoading a banked reset in everyone's paid accounts. See you again tomorrow!\n\n---\nDay 3 (encore)/\n\nWe silently re-shipped codex cloud. It’s pretty good now",
+   "en": "Banked usage reset for all paid accounts (40M active users milestone) + re-shipped Codex Cloud.",
+   "pt": "Reset de uso “guardado” em todas as contas pagas (marco de 40M usuários) + Codex Cloud relançado.",
+   "url": "https://x.com/i/status/2107913674593644711",
+   "urls": [
+    "https://x.com/i/status/2107913674593644711",
+    "https://x.com/i/status/2108084615349170480"
+   ]
+  },
+  {
+   "day": 4,
+   "date": "2026-10-08 16:15",
+   "ids": [
+    "2108275041276420573"
+   ],
+   "category": "speed",
+   "text": "Day 4/\n\nWe have improved steering to be instant, leading to the model now reacting much faster to adjustments you make, allowing you to course-correct direction in realtime and not have the model waste effort.\n\nAlso releasing GPT-6.1 Sol ultrafast. The two work very well together.",
+   "en": "Instant steering (course-correct in realtime) + GPT-6.1 Sol Ultrafast release.",
+   "pt": "Steering instantâneo (corrigir o rumo em tempo real) + lançamento do GPT-6.1 Sol Ultrafast.",
+   "url": "https://x.com/i/status/2108275041276420573",
+   "urls": [
+    "https://x.com/i/status/2108275041276420573"
+   ]
+  },
+  {
+   "day": 5,
+   "date": "2026-10-09 16:47",
+   "ids": [
+    "2108645667451318747",
+    "2108646052178092403"
+   ],
+   "category": "features",
+   "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without consuming usage.\n\n---\nDay 5 (dots edition)/\n\nYou can now create and text your dot entirely from the ChatGPT mobile app. Impressed so many created them via the desktop/web app previously. Time to scale!",
+   "en": "Composer predictions in the desktop app (Pro, no usage) + create/text your dot from the mobile app.",
+   "pt": "Previsões no composer do app desktop (Pro, sem gastar uso) + criar e conversar com seu dot no app mobile.",
+   "url": "https://x.com/i/status/2108645667451318747",
+   "urls": [
+    "https://x.com/i/status/2108645667451318747",
+    "https://x.com/i/status/2108646052178092403"
+   ]
+  },
+  {
+   "day": 6,
+   "date": "2026-10-10 19:15",
+   "ids": [
+    "2109045220411351517"
+   ],
+   "category": "reset",
+   "text": "Day 6/ Reset",
+   "en": "Full usage reset.",
+   "pt": "Reset completo de uso.",
+   "url": "https://x.com/i/status/2109045220411351517",
+   "urls": [
+    "https://x.com/i/status/2109045220411351517"
+   ]
+  },
+  {
+   "day": 7,
+   "date": "2026-10-11 20:45",
+   "ids": [
+    "2109430343346581527"
+   ],
+   "category": "features",
+   "text": "Day 7/\n\nWe have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase.\n\nWe will go higher in the future, but it helps reduce occurrence of compactions and with tasks that require keeping a lot of context and nuance over periods of time. It was carefully tested and is the new sweet spot for most of our users. You can still override it if you want to be higher our lower, with maximum context length of GPT-6.1 Sol of 1M.",
+   "en": "Default context for GPT-6.1 Sol in Codex & Work raised 272k → 500k (max 1M).",
+   "pt": "Contexto padrão do GPT-6.1 Sol no Codex e Work subiu de 272k pra 500k (máx. 1M).",
+   "url": "https://x.com/i/status/2109430343346581527",
+   "urls": [
+    "https://x.com/i/status/2109430343346581527"
+   ]
+  },
+  {
+   "day": 8,
+   "date": "2026-10-12 22:03",
+   "ids": [
+    "2109812216212099456"
+   ],
+   "category": "reset",
+   "text": "Day 8/ Reset",
+   "en": "Full usage reset.",
+   "pt": "Reset completo de uso.",
+   "url": "https://x.com/i/status/2109812216212099456",
+   "urls": [
+    "https://x.com/i/status/2109812216212099456"
+   ]
+  },
+  {
+   "day": 9,
+   "date": "2026-10-13 20:32",
+   "ids": [
+    "2110151780478927344"
+   ],
+   "category": "reliability",
+   "text": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've heard enough feedback about power users running out of disk space.",
+   "en": "Desktop app (ChatGPT & Codex) stores ~60% less state on disk.",
+   "pt": "App desktop (ChatGPT e Codex) passa a ocupar ~60% menos espaço em disco.",
+   "note": "Same text was first posted 20s earlier mislabeled 'Day 8/' (2110151690641154499).",
+   "url": "https://x.com/i/status/2110151780478927344",
+   "urls": [
+    "https://x.com/i/status/2110151780478927344"
+   ]
+  },
+  {
+   "day": 10,
+   "date": "2026-10-15 01:55",
+   "ids": [
+    "2110595484180214059"
+   ],
+   "category": "reset",
+   "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
+   "en": "Full usage reset.",
+   "pt": "Reset completo de uso.",
+   "url": "https://x.com/i/status/2110595484180214059",
+   "urls": [
+    "https://x.com/i/status/2110595484180214059"
+   ]
+  },
+  {
+   "day": 11,
+   "date": "2026-10-15 12:11",
+   "ids": [
+    "2110750421367287996"
+   ],
+   "category": "capacity/limits",
+   "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model is at capacity. Please try a different model\". When it does happen, it should also eventually just continue by itself and not just block on it.\n\nLet us know if you still see it out there in the wild and we'll take a look.",
+   "en": "More compute + fixes to sharply cut 'model is at capacity' errors; tasks now auto-continue.",
+   "pt": "Mais compute e ajustes pra reduzir muito o erro “model is at capacity”; agora a tarefa continua sozinha.",
+   "url": "https://x.com/i/status/2110750421367287996",
+   "urls": [
+    "https://x.com/i/status/2110750421367287996"
+   ]
+  }
+ ]
+}
