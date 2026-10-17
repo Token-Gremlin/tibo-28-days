@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-15 19:55",
+ "updated": "2026-10-16 21:02",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -383,6 +383,43 @@
      "en": "When it happens, the task auto-continues instead of blocking.",
      "pt": "Quando acontecer, a tarefa continua sozinha em vez de travar.",
      "url": "https://x.com/i/status/2110750421367287996"
+    }
+   ]
+  },
+  {
+   "day": 12,
+   "date": "2026-10-16 20:55",
+   "ids": [
+    "2111244596131111253"
+   ],
+   "category": "capacity/limits",
+   "text": "Day 12/\n\nWe’ve made improvements to Codex & Work that increase the effective usage you get. We achieved this by reusing context across subagents, keeping context cached longer, and improved request routing that allows us to increase cache hits.",
+   "en": "Codex & Work now give more effective usage: shared subagent context, longer caching, smarter routing for cache hits.",
+   "pt": "Codex e Work agora rendem mais uso efetivo: contexto reaproveitado entre subagentes, cache mais longo e roteamento melhor pra mais cache hits.",
+   "url": "https://x.com/i/status/2111244596131111253",
+   "urls": [
+    "https://x.com/i/status/2111244596131111253"
+   ],
+   "items": [
+    {
+     "en": "Improvements to Codex & Work increase effective usage.",
+     "pt": "Melhorias no Codex e no Work aumentam o uso efetivo.",
+     "url": "https://x.com/i/status/2111244596131111253"
+    },
+    {
+     "en": "Context reused across subagents.",
+     "pt": "Contexto reaproveitado entre subagentes.",
+     "url": "https://x.com/i/status/2111244596131111253"
+    },
+    {
+     "en": "Context kept cached longer.",
+     "pt": "Contexto fica em cache por mais tempo.",
+     "url": "https://x.com/i/status/2111244596131111253"
+    },
+    {
+     "en": "Improved request routing for more cache hits.",
+     "pt": "Roteamento de requisições melhorado pra aumentar os cache hits.",
+     "url": "https://x.com/i/status/2111244596131111253"
     }
    ]
   }
