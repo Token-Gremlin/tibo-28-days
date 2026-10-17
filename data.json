@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-16 21:02",
+ "updated": "2026-10-17 20:15",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -416,10 +416,37 @@
      "pt": "Contexto fica em cache por mais tempo.",
      "url": "https://x.com/i/status/2111244596131111253"
     },
-    {
+     {
      "en": "Improved request routing for more cache hits.",
      "pt": "Roteamento de requisições melhorado pra aumentar os cache hits.",
      "url": "https://x.com/i/status/2111244596131111253"
+    }
+   ]
+  },
+  {
+   "day": 13,
+   "date": "2026-10-17 13:20",
+   "ids": [
+    "2111492673890824348"
+   ],
+   "category": "reset",
+   "text": "Day 13/ Le limit reset",
+   "en": "Full usage reset.",
+   "pt": "Reset completo de uso.",
+   "url": "https://x.com/i/status/2111492673890824348",
+   "urls": [
+    "https://x.com/i/status/2111492673890824348"
+   ],
+   "items": [
+    {
+     "en": "Day 13: Le limit reset.",
+     "pt": "Day 13: Le limit reset.",
+     "url": "https://x.com/i/status/2111492673890824348"
+    },
+    {
+     "en": "Landing sometime today by EOD PST.",
+     "pt": "Chega hoje, até o fim do dia (PST).",
+     "url": "https://x.com/i/status/2111492738025959922"
     }
    ]
   }
