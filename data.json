@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-17 20:15",
+ "updated": "2026-10-18 23:55",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -447,6 +447,33 @@
      "en": "Landing sometime today by EOD PST.",
      "pt": "Chega hoje, até o fim do dia (PST).",
      "url": "https://x.com/i/status/2111492738025959922"
+    }
+   ]
+  },
+  {
+   "day": 14,
+   "date": "2026-10-18 22:18",
+   "ids": [
+    "2111990254408434095"
+   ],
+   "category": "features",
+   "text": "Day 14/\n\nSmall quality of life improvement. You can now edit previous messages within a thread in the desktop app. Long time requested, and took way too long to get that one out.",
+   "en": "You can now edit previous messages within a thread in the Codex desktop app.",
+   "pt": "Agora dá pra editar mensagens anteriores dentro de uma thread no app desktop.",
+   "url": "https://x.com/i/status/2111990254408434095",
+   "urls": [
+    "https://x.com/i/status/2111990254408434095"
+   ],
+   "items": [
+    {
+     "en": "Small quality-of-life improvement: edit previous messages within a thread in the desktop app.",
+     "pt": "Pequena melhoria de qualidade de vida: editar mensagens anteriores dentro de uma thread no app desktop.",
+     "url": "https://x.com/i/status/2111990254408434095"
+    },
+    {
+     "en": "A long-requested feature that took way too long to ship.",
+     "pt": "Recurso pedido há muito tempo, que demorou demais pra sair.",
+     "url": "https://x.com/i/status/2111990254408434095"
     }
    ]
   }
