@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-19 23:53",
+ "updated": "2026-10-20 12:49",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -483,18 +483,20 @@
    "ids": [
     "2112268918681485431",
     "2112242739198959913",
-    "2112242741555941550"
+    "2112242741555941550",
+    "2112432076767289678"
    ],
    "category": "features",
-   "text": "Day 15/ We're cooked\n\n[quoting @OpenAIDevs: \"Here’s what we’re cooking with Codex:\" — livestream \"COOKED: Ep. 1\" https://x.com/i/broadcasts/1RKZzBELBbXKB]",
-   "en": "Day 15 points to OpenAI Devs' first \"COOKED\" livestream on what's new in Codex: cloud environments and new Codex CLI features.",
-   "pt": "O Day 15 aponta pro primeiro episódio da live \"COOKED\" da OpenAI Devs, com as novidades do Codex: ambientes na nuvem e novos recursos do Codex CLI.",
-   "note": "Tibo's Day 15 post is a quote of an @OpenAIDevs post linking the livestream \"COOKED: Ep. 1\"; sub-items come from OpenAI Devs' own thread reply.",
+   "text": "Day 15/ We're cooked\n\n[quoting @OpenAIDevs: \"Here’s what we’re cooking with Codex:\" — livestream \"COOKED: Ep. 1\" https://x.com/i/broadcasts/1RKZzBELBbXKB]\n\n---\nDay 15/ Nevermind, we're still cooking... and reset. Enjoy.",
+   "en": "Day 15 points to OpenAI Devs' first \"COOKED\" livestream on what's new in Codex (cloud environments and new Codex CLI features), and a follow-up the same night added a usage reset.",
+   "pt": "O Day 15 aponta pro primeiro episódio da live \"COOKED\" da OpenAI Devs, com as novidades do Codex (ambientes na nuvem e novos recursos do Codex CLI), e um follow-up na mesma noite trouxe um reset.",
+   "note": "Tibo's Day 15 post is a quote of an @OpenAIDevs post linking the livestream \"COOKED: Ep. 1\"; sub-items come from OpenAI Devs' own thread reply. A follow-up 'Day 15/ Nevermind, we're still cooking... and reset.' (2112432076767289678, Oct 20 03:33 BRT) quotes the original Day 15 post.",
    "url": "https://x.com/i/status/2112268918681485431",
    "urls": [
     "https://x.com/i/status/2112268918681485431",
     "https://x.com/i/status/2112242739198959913",
-    "https://x.com/i/status/2112242741555941550"
+    "https://x.com/i/status/2112242741555941550",
+    "https://x.com/i/status/2112432076767289678"
    ],
    "items": [
     {
@@ -521,6 +523,11 @@
      "en": "Also on the show: building an 8-bit ramen game with Ultrafast, with @MatthewBerman and @ForwardEditor, played on a @modretro handheld.",
      "pt": "Também na live: um jogo 8-bit de ramen feito com Ultrafast, com @MatthewBerman e @ForwardEditor, jogado num portátil da @modretro.",
      "url": "https://x.com/i/status/2112242741555941550"
+    },
+    {
+     "en": "Follow-up (Oct 20, 03:33 BRT): \"Nevermind, we're still cooking... and reset. Enjoy.\" A reset on top of the Day 15 livestream.",
+     "pt": "Follow-up (20/10, 03:33 BRT): \"Nevermind, we're still cooking... and reset. Enjoy.\" Um reset além da live do Day 15.",
+     "url": "https://x.com/i/status/2112432076767289678"
     }
    ]
   }
