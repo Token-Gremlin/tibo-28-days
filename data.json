@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-18 23:55",
+ "updated": "2026-10-19 23:53",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -474,6 +474,53 @@
      "en": "A long-requested feature that took way too long to ship.",
      "pt": "Recurso pedido há muito tempo, que demorou demais pra sair.",
      "url": "https://x.com/i/status/2111990254408434095"
+    }
+   ]
+  },
+  {
+   "day": 15,
+   "date": "2026-10-19 16:45",
+   "ids": [
+    "2112268918681485431",
+    "2112242739198959913",
+    "2112242741555941550"
+   ],
+   "category": "features",
+   "text": "Day 15/ We're cooked\n\n[quoting @OpenAIDevs: \"Here’s what we’re cooking with Codex:\" — livestream \"COOKED: Ep. 1\" https://x.com/i/broadcasts/1RKZzBELBbXKB]",
+   "en": "Day 15 points to OpenAI Devs' first \"COOKED\" livestream on what's new in Codex: cloud environments and new Codex CLI features.",
+   "pt": "O Day 15 aponta pro primeiro episódio da live \"COOKED\" da OpenAI Devs, com as novidades do Codex: ambientes na nuvem e novos recursos do Codex CLI.",
+   "note": "Tibo's Day 15 post is a quote of an @OpenAIDevs post linking the livestream \"COOKED: Ep. 1\"; sub-items come from OpenAI Devs' own thread reply.",
+   "url": "https://x.com/i/status/2112268918681485431",
+   "urls": [
+    "https://x.com/i/status/2112268918681485431",
+    "https://x.com/i/status/2112242739198959913",
+    "https://x.com/i/status/2112242741555941550"
+   ],
+   "items": [
+    {
+     "en": "Day 15: \"We're cooked\", quoting OpenAI Devs' livestream \"COOKED: Ep. 1\" (what they're cooking with Codex).",
+     "pt": "Day 15: \"We're cooked\", citando a live \"COOKED: Ep. 1\" da OpenAI Devs (o que eles estão cozinhando com o Codex).",
+     "url": "https://x.com/i/status/2112268918681485431"
+    },
+    {
+     "en": "Livestream \"COOKED: Ep. 1\" from OpenAI Developers.",
+     "pt": "Live \"COOKED: Ep. 1\" da OpenAI Developers.",
+     "url": "https://x.com/i/broadcasts/1RKZzBELBbXKB"
+    },
+    {
+     "en": "Codex cloud environments: tasks can keep running after you close your laptop.",
+     "pt": "Ambientes do Codex na nuvem: as tarefas continuam rodando depois que você fecha o notebook.",
+     "url": "https://x.com/i/status/2112242741555941550"
+    },
+    {
+     "en": "New in the Codex CLI: talk to Codex in your terminal, keep track of your agents, and fork a conversation into a separate worktree.",
+     "pt": "Novidades no Codex CLI: conversar com o Codex no terminal, acompanhar seus agentes e fazer fork de uma conversa pra uma worktree separada.",
+     "url": "https://x.com/i/status/2112242741555941550"
+    },
+    {
+     "en": "Also on the show: building an 8-bit ramen game with Ultrafast, with @MatthewBerman and @ForwardEditor, played on a @modretro handheld.",
+     "pt": "Também na live: um jogo 8-bit de ramen feito com Ultrafast, com @MatthewBerman e @ForwardEditor, jogado num portátil da @modretro.",
+     "url": "https://x.com/i/status/2112242741555941550"
     }
    ]
   }
