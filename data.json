@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-20 12:49",
+ "updated": "2026-10-20 23:47",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -528,6 +528,48 @@
      "en": "Follow-up (Oct 20, 03:33 BRT): \"Nevermind, we're still cooking... and reset. Enjoy.\" A reset on top of the Day 15 livestream.",
      "pt": "Follow-up (20/10, 03:33 BRT): \"Nevermind, we're still cooking... and reset. Enjoy.\" Um reset além da live do Day 15.",
      "url": "https://x.com/i/status/2112432076767289678"
+    }
+   ]
+  },
+  {
+   "day": 16,
+   "date": "2026-10-20 22:10",
+   "ids": [
+    "2112712984644784534",
+    "2112603916076781778",
+    "2112603918522105890"
+   ],
+   "category": "features",
+   "text": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache.\n\n[quoting @OpenAIDevs: \"You can now choose 12-hour prompt caching in the API.\n\nPersistent agents, like dots, reuse context throughout the day. \n\nYou can keep shared instructions, tools, and context cached longer and pay the lower cached-input rate, even when requests are hours apart.\"]",
+   "en": "12-hour prompt caching in the API, and for logged-in Codex & Work users the cache is kept forever, so resuming an old conversation is guaranteed to hit the cache.",
+   "pt": "Cache de prompt de 12h na API e, pra quem está logado no Codex & Work, o cache fica pra sempre: voltar a uma conversa antiga sempre pega o cache, sem penalidade.",
+   "note": "Tibo's Day 16 post quotes @OpenAIDevs' 12-hour prompt caching announcement (2112603916076781778); the extra detail comes from OpenAI Devs' own thread reply (2112603918522105890). No self-replies from Tibo under Day 16 at the time of compiling.",
+   "url": "https://x.com/i/status/2112712984644784534",
+   "urls": [
+    "https://x.com/i/status/2112712984644784534",
+    "https://x.com/i/status/2112603916076781778",
+    "https://x.com/i/status/2112603918522105890"
+   ],
+   "items": [
+    {
+     "en": "You can now cache for 12h in the API.",
+     "pt": "Agora dá pra fazer cache por 12h na API.",
+     "url": "https://x.com/i/status/2112712984644784534"
+    },
+    {
+     "en": "For logged-in users across Codex & Work the cache is kept forever: no penalty for coming back to an old conversation or resuming after a few hours, and you're guaranteed to hit the cache.",
+     "pt": "Pra usuários logados no Codex & Work o cache fica pra sempre: sem penalidade ao voltar pra uma conversa antiga ou retomar depois de algumas horas, com acerto de cache garantido.",
+     "url": "https://x.com/i/status/2112712984644784534"
+    },
+    {
+     "en": "OpenAI Devs: choose 12-hour prompt caching in the API; persistent agents can keep shared instructions, tools, and context cached longer at the lower cached-input rate, even when requests are hours apart.",
+     "pt": "OpenAI Devs: dá pra escolher cache de prompt de 12h na API; agentes persistentes mantêm instruções, ferramentas e contexto compartilhados em cache por mais tempo pagando a tarifa menor de input em cache, mesmo com horas entre as requisições.",
+     "url": "https://x.com/i/status/2112603916076781778"
+    },
+    {
+     "en": "Pick \"12h\", keep the 30-minute default, or mix both in one request (12h for shared instructions, 30 minutes for newer conversation content); repeated reuse through the day can significantly outweigh the extra cost.",
+     "pt": "Dá pra escolher \"12h\", manter o padrão de 30 minutos ou misturar os dois numa mesma requisição (12h pras instruções compartilhadas, 30 min pro conteúdo mais novo da conversa); reusar o contexto ao longo do dia pode compensar bem o custo extra.",
+     "url": "https://x.com/i/status/2112603918522105890"
     }
    ]
   }
