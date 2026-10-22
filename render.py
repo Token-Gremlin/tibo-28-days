@@ -4,7 +4,7 @@ D=os.path.dirname(os.path.abspath(__file__))
 data=json.load(open(f"{D}/data.json"))
 html=open(f"{D}/template.html").read().replace("__DATA__",json.dumps(data,ensure_ascii=False).replace("</","<\\/"))
 open(f"{D}/index.html","w").write(html)
-rows=(data["total"]+3)//4
+# 1960 clipped the row that starts at day 17. 2800 fits the filled grid plus the footer.
 subprocess.run(["google-chrome","--headless=new","--no-sandbox","--disable-gpu","--hide-scrollbars","--allow-file-access-from-files",
- f"--window-size=1600,{1960+0*rows}",f"--screenshot={D}/visual.png",f"file://{D}/index.html"],check=True,capture_output=True)
+ "--window-size=1600,2800",f"--screenshot={D}/visual.png",f"file://{D}/index.html"],check=True,capture_output=True)
 print("ok")

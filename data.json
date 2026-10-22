@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-20 23:47",
+ "updated": "2026-10-22 12:53",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -570,6 +570,41 @@
      "en": "Pick \"12h\", keep the 30-minute default, or mix both in one request (12h for shared instructions, 30 minutes for newer conversation content); repeated reuse through the day can significantly outweigh the extra cost.",
      "pt": "Dá pra escolher \"12h\", manter o padrão de 30 minutos ou misturar os dois numa mesma requisição (12h pras instruções compartilhadas, 30 min pro conteúdo mais novo da conversa); reusar o contexto ao longo do dia pode compensar bem o custo extra.",
      "url": "https://x.com/i/status/2112603918522105890"
+    }
+   ]
+  },
+  {
+   "day": 17,
+   "date": "2026-10-22 03:55",
+   "ids": [
+    "2113162277688070445",
+    "2113162413008884099"
+   ],
+   "category": "reset",
+   "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do it in the middle of an incident.",
+   "en": "Reset day: another full usage reset, landing before 10am PST tomorrow, plus a reminder to get Daybreak Blue access.",
+   "pt": "Dia de reset: mais um reset completo de uso, que chega amanhã antes das 10h PST, e um lembrete pra pegar acesso ao Daybreak Blue.",
+   "note": "Timing ('lands tomorrow before 10am PST') comes from Tibo's own reply (2113162413008884099).",
+   "url": "https://x.com/i/status/2113162277688070445",
+   "urls": [
+    "https://x.com/i/status/2113162277688070445",
+    "https://x.com/i/status/2113162413008884099"
+   ],
+   "items": [
+    {
+     "en": "It's reset day: usage reset.",
+     "pt": "É dia de reset: reset de uso.",
+     "url": "https://x.com/i/status/2113162277688070445"
+    },
+    {
+     "en": "Lands tomorrow before 10am PST.",
+     "pt": "Chega amanhã antes das 10h PST.",
+     "url": "https://x.com/i/status/2113162413008884099"
+    },
+    {
+     "en": "Reminder to get Daybreak Blue access: it only takes 15 minutes, and you don't want to do it in the middle of an incident.",
+     "pt": "Lembrete pra pegar acesso ao Daybreak Blue: leva só 15 minutos e você não quer ter que fazer isso no meio de um incidente.",
+     "url": "https://x.com/i/status/2113162277688070445"
     }
    ]
   }
