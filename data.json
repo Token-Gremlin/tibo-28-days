@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-22 12:53",
+ "updated": "2026-10-23 12:49",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -605,6 +605,56 @@
      "en": "Reminder to get Daybreak Blue access: it only takes 15 minutes, and you don't want to do it in the middle of an incident.",
      "pt": "Lembrete pra pegar acesso ao Daybreak Blue: leva só 15 minutos e você não quer ter que fazer isso no meio de um incidente.",
      "url": "https://x.com/i/status/2113162277688070445"
+    }
+   ]
+  },
+  {
+   "day": 18,
+   "date": "2026-10-23 01:46",
+   "ids": [
+    "2113492187770175603",
+    "2113492502355562875"
+   ],
+   "category": "reset",
+   "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
+   "en": "Another usage reset, landing before 10am PST along with a small ship, on top of Decisions API GA, OpenResponses joining the Linux Foundation, performance improvements and Uber going all-in on Codex.",
+   "pt": "Mais um reset de uso, chegando antes das 10h PST junto com um pequeno ship, além do Decisions API em GA, OpenResponses entrando na Linux Foundation, melhorias de performance e a Uber indo all-in no Codex.",
+   "note": "Timing ('landing tomorrow before 10am PST together with a small ship') comes from Tibo's own reply (2113492502355562875).",
+   "url": "https://x.com/i/status/2113492187770175603",
+   "urls": [
+    "https://x.com/i/status/2113492187770175603",
+    "https://x.com/i/status/2113492502355562875"
+   ],
+   "items": [
+    {
+     "en": "Decisions API is generally available.",
+     "pt": "O Decisions API está disponível para todos (GA).",
+     "url": "https://x.com/i/status/2113346642787086538"
+    },
+    {
+     "en": "OpenResponses joined the Linux Foundation.",
+     "pt": "O OpenResponses entrou na Linux Foundation.",
+     "url": "https://x.com/i/status/2113492187770175603"
+    },
+    {
+     "en": "Shipped some performance improvements.",
+     "pt": "Saíram algumas melhorias de performance.",
+     "url": "https://x.com/i/status/2113492187770175603"
+    },
+    {
+     "en": "Uber is going all-in on Codex & work.",
+     "pt": "A Uber está indo all-in no Codex e no trabalho.",
+     "url": "https://x.com/i/status/2113492187770175603"
+    },
+    {
+     "en": "And yes, it's a reset: usage reset.",
+     "pt": "E sim, é reset: reset de uso.",
+     "url": "https://x.com/i/status/2113492187770175603"
+    },
+    {
+     "en": "Lands tomorrow before 10am PST together with a small ship.",
+     "pt": "Chega amanhã antes das 10h PST junto com um pequeno ship.",
+     "url": "https://x.com/i/status/2113492502355562875"
     }
    ]
   }
