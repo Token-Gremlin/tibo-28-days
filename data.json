@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-23 12:49",
+ "updated": "2026-10-23 23:57",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -655,6 +655,51 @@
      "en": "Lands tomorrow before 10am PST together with a small ship.",
      "pt": "Chega amanhã antes das 10h PST junto com um pequeno ship.",
      "url": "https://x.com/i/status/2113492502355562875"
+    }
+   ]
+  },
+  {
+   "day": 19,
+   "date": "2026-10-23 20:12",
+   "ids": [
+    "2113770573994299544",
+    "2113770862860222611"
+   ],
+   "category": "features",
+   "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex cli.",
+   "en": "Small updates: faster call connections for dots, changing reasoning mid-conversation no longer invalidates the cache, and a Codex CLI update with prompt presets, inline settings and enterprise MCP sign-in.",
+   "pt": "Pequenas melhorias: chamadas conectam bem mais rápido no dots, mudar o reasoning no meio da conversa não invalida mais o cache, e o Codex CLI ganhou presets de prompt, configurações inline e login MCP corporativo.",
+   "note": "CLI details and the 2X usage growth come from Tibo's own reply (2113770862860222611).",
+   "url": "https://x.com/i/status/2113770573994299544",
+   "urls": [
+    "https://x.com/i/status/2113770573994299544",
+    "https://x.com/i/status/2113770862860222611"
+   ],
+   "items": [
+    {
+     "en": "Calls connect much faster for dots.",
+     "pt": "As chamadas conectam muito mais rápido no dots.",
+     "url": "https://x.com/i/status/2113770573994299544"
+    },
+    {
+     "en": "Changing reasoning in Codex & work mid-conversation no longer invalidates the cache.",
+     "pt": "Mudar o reasoning no Codex e no work no meio da conversa não invalida mais o cache.",
+     "url": "https://x.com/i/status/2113770573994299544"
+    },
+    {
+     "en": "Codex CLI: reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in.",
+     "pt": "Codex CLI: presets de prompt reutilizáveis, configurações inline de modelo e permissões, e login MCP corporativo.",
+     "url": "https://x.com/i/status/2113770862860222611"
+    },
+    {
+     "en": "Codex CLI: fixed failures when resuming long sessions and added Windows corporate-proxy authentication.",
+     "pt": "Codex CLI: corrigidas falhas ao retomar sessões longas e adicionada autenticação via proxy corporativo no Windows.",
+     "url": "https://x.com/i/status/2113770862860222611"
+    },
+    {
+     "en": "The CLI has grown 2X in usage since DevDay.",
+     "pt": "O uso do CLI dobrou desde o DevDay.",
+     "url": "https://x.com/i/status/2113770862860222611"
     }
    ]
   }
