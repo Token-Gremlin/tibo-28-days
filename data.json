@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-23 23:57",
+ "updated": "2026-10-25 13:01",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -700,6 +700,43 @@
      "en": "The CLI has grown 2X in usage since DevDay.",
      "pt": "O uso do CLI dobrou desde o DevDay.",
      "url": "https://x.com/i/status/2113770862860222611"
+    }
+   ]
+  },
+  {
+   "day": 20,
+   "date": "2026-10-25 00:39",
+   "ids": [
+    "2114200152701575656",
+    "2114200291319124163",
+    "2114237083652882932"
+   ],
+   "category": "reset",
+   "text": "Day 20/ Rest and reset",
+   "en": "Rest and reset: another full usage reset, landing by midnight PST, later confirmed fully propagated.",
+   "pt": "Descanso e reset: mais um reset completo de uso, chegando até a meia-noite PST, depois confirmado como totalmente propagado.",
+   "note": "Timing ('By midnight PST') comes from Tibo's own reply (2114200291319124163); propagation confirmation from his quote post (2114237083652882932).",
+   "url": "https://x.com/i/status/2114200152701575656",
+   "urls": [
+    "https://x.com/i/status/2114200152701575656",
+    "https://x.com/i/status/2114200291319124163",
+    "https://x.com/i/status/2114237083652882932"
+   ],
+   "items": [
+    {
+     "en": "Rest and reset: usage reset.",
+     "pt": "Descanso e reset: reset de uso.",
+     "url": "https://x.com/i/status/2114200152701575656"
+    },
+    {
+     "en": "Lands by midnight PST.",
+     "pt": "Chega até a meia-noite PST.",
+     "url": "https://x.com/i/status/2114200291319124163"
+    },
+    {
+     "en": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too.",
+     "pt": "Já está tudo propagado. Aproveitem pra codar muito com o Codex amanhã. Semana divertida pela frente também.",
+     "url": "https://x.com/i/status/2114237083652882932"
     }
    ]
   }
