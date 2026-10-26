@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-25 13:01",
+ "updated": "2026-10-26 13:05",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -737,6 +737,34 @@
      "en": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too.",
      "pt": "Já está tudo propagado. Aproveitem pra codar muito com o Codex amanhã. Semana divertida pela frente também.",
      "url": "https://x.com/i/status/2114237083652882932"
+    }
+   ]
+  },
+  {
+   "day": 21,
+   "date": "2026-10-26 02:21",
+   "ids": [
+    "2114588174249071102"
+   ],
+   "category": "reset",
+   "text": "Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
+   "en": "Another usage reset, with Tibo teasing what the remaining seven days will bring.",
+   "pt": "Mais um reset de uso, com o Tibo provocando sobre o que vem nos sete dias restantes.",
+   "note": "Single post; Tibo's only reply in the thread was conversational and adds no sub-items.",
+   "url": "https://x.com/i/status/2114588174249071102",
+   "urls": [
+    "https://x.com/i/status/2114588174249071102"
+   ],
+   "items": [
+    {
+     "en": "Today is a reset (usage reset).",
+     "pt": "Hoje é dia de reset (reset de uso).",
+     "url": "https://x.com/i/status/2114588174249071102"
+    },
+    {
+     "en": "Seven days remain in the series.",
+     "pt": "Restam sete dias na série.",
+     "url": "https://x.com/i/status/2114588174249071102"
     }
    ]
   }
