@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-26 13:05",
+ "updated": "2026-10-26 23:48",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -765,6 +765,45 @@
      "en": "Seven days remain in the series.",
      "pt": "Restam sete dias na série.",
      "url": "https://x.com/i/status/2114588174249071102"
+    }
+   ]
+  },
+  {
+   "day": 22,
+   "date": "2026-10-26 16:24",
+   "ids": [
+    "2114800277677092936"
+   ],
+   "category": "features",
+   "text": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at computer use, and gives 2X more usage than 6.1 Sol.",
+   "en": "GPT-6.1 Terra launches: better writing, personality and nuance, strong computer use, and 2X more usage than 6.1 Sol.",
+   "pt": "Chega o GPT-6.1 Terra: escreve melhor, tem mais personalidade e nuance, é forte em uso de computador e dá 2X mais uso que o 6.1 Sol.",
+   "note": "Quotes the official @OpenAI launch post for GPT-6.1 Terra; Tibo posted no sub-item replies in the thread.",
+   "url": "https://x.com/i/status/2114800277677092936",
+   "urls": [
+    "https://x.com/i/status/2114800277677092936",
+    "https://x.com/i/status/2114780711664398349"
+   ],
+   "items": [
+    {
+     "en": "Terra is back: first model significantly better at writing, personality and nuanced understanding of requests.",
+     "pt": "O Terra voltou: primeiro modelo bem melhor em escrita, personalidade e compreensão de pedidos com nuance.",
+     "url": "https://x.com/i/status/2114800277677092936"
+    },
+    {
+     "en": "Very good at computer use and strong across the board.",
+     "pt": "Muito bom em uso de computador e forte em tudo.",
+     "url": "https://x.com/i/status/2114800277677092936"
+    },
+    {
+     "en": "2X more usage than 6.1 Sol across API and subscriptions.",
+     "pt": "2X mais uso que o 6.1 Sol na API e nas assinaturas.",
+     "url": "https://x.com/i/status/2114800277677092936"
+    },
+    {
+     "en": "OpenAI: GPT-6.1 Terra delivers fast, capable computer use at a lower price; understands what's on screen, acts across apps, writes naturally.",
+     "pt": "OpenAI: o GPT-6.1 Terra traz uso de computador rápido e capaz por um preço menor; entende a tela, age entre apps e escreve com naturalidade.",
+     "url": "https://x.com/i/status/2114780711664398349"
     }
    ]
   }
