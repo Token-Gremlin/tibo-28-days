@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-26 23:48",
+ "updated": "2026-10-27 23:53",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -804,6 +804,43 @@
      "en": "OpenAI: GPT-6.1 Terra delivers fast, capable computer use at a lower price; understands what's on screen, acts across apps, writes naturally.",
      "pt": "OpenAI: o GPT-6.1 Terra traz uso de computador rápido e capaz por um preço menor; entende a tela, age entre apps e escreve com naturalidade.",
      "url": "https://x.com/i/status/2114780711664398349"
+    }
+   ]
+  },
+  {
+   "day": 23,
+   "date": "2026-10-27 23:42",
+   "ids": [
+    "2115273064481218829",
+    "2115273253711409208",
+    "2115139248458191070"
+   ],
+   "category": "reset",
+   "text": "Day 23/ Much requested iCloud Main & Calendar plugins. Just kidding, today is a reset. Still much requested though!",
+   "en": "Another usage reset, landing by midnight PST, with Tibo joking about ChatGPT's newly launched iCloud Mail and Calendar plugins.",
+   "pt": "Mais um reset de uso, chegando até a meia-noite PST, com o Tibo brincando sobre os novos plugins de iCloud Mail e Calendar no ChatGPT.",
+   "note": "Tibo's post quotes the official @ChatGPT launch of iCloud Mail and Calendar plugins (2115139248458191070) and writes 'iCloud Main' (sic). Timing ('Lands by midnight PST.') comes from his own reply (2115273253711409208).",
+   "url": "https://x.com/i/status/2115273064481218829",
+   "urls": [
+    "https://x.com/i/status/2115273064481218829",
+    "https://x.com/i/status/2115273253711409208",
+    "https://x.com/i/status/2115139248458191070"
+   ],
+   "items": [
+    {
+     "en": "Just kidding, today is a reset (usage reset).",
+     "pt": "Brincadeira, hoje é dia de reset (reset de uso).",
+     "url": "https://x.com/i/status/2115273064481218829"
+    },
+    {
+     "en": "Lands by midnight PST.",
+     "pt": "Chega até a meia-noite PST.",
+     "url": "https://x.com/i/status/2115273253711409208"
+    },
+    {
+     "en": "ChatGPT: iCloud Mail and Calendar plugins are available on all ChatGPT plans on web, desktop and iOS (find emails, catch up on your inbox, check or update calendar events).",
+     "pt": "ChatGPT: plugins de iCloud Mail e Calendar disponíveis em todos os planos do ChatGPT na web, no desktop e no iOS (achar e-mails, pôr a caixa de entrada em dia, ver ou atualizar eventos da agenda).",
+     "url": "https://x.com/ChatGPT/status/2115139248458191070"
     }
    ]
   }
