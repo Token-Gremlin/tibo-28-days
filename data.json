@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-27 23:53",
+ "updated": "2026-10-28 23:52",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -841,6 +841,41 @@
      "en": "ChatGPT: iCloud Mail and Calendar plugins are available on all ChatGPT plans on web, desktop and iOS (find emails, catch up on your inbox, check or update calendar events).",
      "pt": "ChatGPT: plugins de iCloud Mail e Calendar disponíveis em todos os planos do ChatGPT na web, no desktop e no iOS (achar e-mails, pôr a caixa de entrada em dia, ver ou atualizar eventos da agenda).",
      "url": "https://x.com/ChatGPT/status/2115139248458191070"
+    }
+   ]
+  },
+  {
+   "day": 24,
+   "date": "2026-10-28 22:49",
+   "ids": [
+    "2115622002581188681",
+    "2115496387613786374"
+   ],
+   "category": "features",
+   "text": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to <INSERT WILD REQUEST>\" and sit back and relax.",
+   "en": "You can now text your dot via iMessage or RCS, like any contact: share/forward things, send voice notes, or even ask Siri to text it.",
+   "pt": "Agora dá pra mandar mensagem pro seu dot por iMessage ou RCS, como qualquer contato: compartilhar/encaminhar coisas, mandar áudios ou até pedir pra Siri mandar a mensagem.",
+   "note": "Tibo's post quotes the official @ChatGPT launch of texting your dot (2115496387613786374); rolling out as a preview for Pro users in the US. Tibo posted no sub-item replies in the thread.",
+   "url": "https://x.com/i/status/2115622002581188681",
+   "urls": [
+    "https://x.com/i/status/2115622002581188681",
+    "https://x.com/i/status/2115496387613786374"
+   ],
+   "items": [
+    {
+     "en": "Text your dot just like anyone else: easy to share/forward things or leave it voice notes.",
+     "pt": "Mande mensagem pro seu dot como pra qualquer pessoa: fácil compartilhar/encaminhar coisas ou deixar áudios.",
+     "url": "https://x.com/i/status/2115622002581188681"
+    },
+    {
+     "en": "Get creative with \"Hey Siri, text Iggy to <INSERT WILD REQUEST>\" and sit back and relax.",
+     "pt": "Dá pra ser criativo com \"Hey Siri, text Iggy to <PEDIDO MALUCO>\" e só relaxar.",
+     "url": "https://x.com/i/status/2115622002581188681"
+    },
+    {
+     "en": "ChatGPT: give your dot a task or something to keep an eye on via text, photos or voice notes; it texts you proactively with updates. Secure via iMessage or RCS (only you can text your dot, and it can only text you). Preview rolling out for Pro users in the US.",
+     "pt": "ChatGPT: passe uma tarefa ou algo pra acompanhar pro seu dot por texto, fotos ou áudios; ele te manda mensagem proativamente com novidades. Seguro via iMessage ou RCS (só você manda mensagem pro seu dot, e ele só manda pra você). Prévia liberando pra usuários Pro nos EUA.",
+     "url": "https://x.com/ChatGPT/status/2115496387613786374"
     }
    ]
   }
