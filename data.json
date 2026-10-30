@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-28 23:52",
+ "updated": "2026-10-30 12:45",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -876,6 +876,51 @@
      "en": "ChatGPT: give your dot a task or something to keep an eye on via text, photos or voice notes; it texts you proactively with updates. Secure via iMessage or RCS (only you can text your dot, and it can only text you). Preview rolling out for Pro users in the US.",
      "pt": "ChatGPT: passe uma tarefa ou algo pra acompanhar pro seu dot por texto, fotos ou áudios; ele te manda mensagem proativamente com novidades. Seguro via iMessage ou RCS (só você manda mensagem pro seu dot, e ele só manda pra você). Prévia liberando pra usuários Pro nos EUA.",
      "url": "https://x.com/ChatGPT/status/2115496387613786374"
+    }
+   ]
+  },
+  {
+   "day": 25,
+   "date": "2026-10-29 13:56",
+   "ids": [
+    "2115850175868727621",
+    "2115851621137784832"
+   ],
+   "category": "capacity/limits",
+   "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage.\n\nAnd we'll of course also keep shipping better models and other efficiency improvements that increase your effective usage over time.",
+   "en": "All usage limits doubled for Pro 100/200/500 and Business Premium, effective today; Pro 200 limits won't be reduced after all.",
+   "pt": "Todos os limites de uso dobrados para Pro 100/200/500 e Business Premium, a partir de hoje; os limites do Pro 200 não vão mais ser reduzidos.",
+   "note": "Tibo followed up in his own thread with a joke reply (2115851621137784832). No official OpenAI/ChatGPT/Codex post is quoted.",
+   "url": "https://x.com/i/status/2115850175868727621",
+   "urls": [
+    "https://x.com/i/status/2115850175868727621",
+    "https://x.com/i/status/2115851621137784832"
+   ],
+   "items": [
+    {
+     "en": "Doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.",
+     "pt": "Dobrando todos os limites de uso de todos os planos Pro 100/200/500 e Business Premium, a partir de hoje.",
+     "url": "https://x.com/i/status/2115850175868727621"
+    },
+    {
+     "en": "After user feedback, Pro 200 usage limits won't be reduced: Work and Codex usage stays the same.",
+     "pt": "Depois do feedback dos usuários, os limites do Pro 200 não vão ser reduzidos: o uso de Work e Codex continua igual.",
+     "url": "https://x.com/i/status/2115850175868727621"
+    },
+    {
+     "en": "Extended limits for dots continue for now, and dot usage stays separate from your default usage.",
+     "pt": "Os limites estendidos pros dots continuam por enquanto, e o uso do dot segue separado do seu uso padrão.",
+     "url": "https://x.com/i/status/2115850175868727621"
+    },
+    {
+     "en": "Better models and other efficiency improvements will keep increasing effective usage over time.",
+     "pt": "Modelos melhores e outras melhorias de eficiência vão continuar aumentando o uso efetivo com o tempo.",
+     "url": "https://x.com/i/status/2115850175868727621"
+    },
+    {
+     "en": "Tibo's follow-up: \"Graduating from The Reset Company to The Token Company.\"",
+     "pt": "Complemento do Tibo: \"Graduating from The Reset Company to The Token Company.\" (deixando de ser a empresa dos resets pra virar a empresa dos tokens).",
+     "url": "https://x.com/i/status/2115851621137784832"
     }
    ]
   }
