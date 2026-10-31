@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-30 12:45",
+ "updated": "2026-10-31 12:48",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -921,6 +921,45 @@
      "en": "Tibo's follow-up: \"Graduating from The Reset Company to The Token Company.\"",
      "pt": "Complemento do Tibo: \"Graduating from The Reset Company to The Token Company.\" (deixando de ser a empresa dos resets pra virar a empresa dos tokens).",
      "url": "https://x.com/i/status/2115851621137784832"
+    }
+   ]
+  },
+  {
+   "day": 26,
+   "date": "2026-10-31 02:42",
+   "ids": [
+    "2116405414921384099"
+   ],
+   "category": "features",
+   "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://help.openai.com/en/articles/20001068-using-multiple-chatgpt-accounts-on-web-and-mobile",
+   "en": "You can now easily switch between multiple ChatGPT accounts on mobile, with desktop coming soon; Tibo also teased that the next two days will be resets.",
+   "pt": "Agora dá pra alternar facilmente entre várias contas do ChatGPT no celular, e no desktop em breve; o Tibo também adiantou que os próximos dois dias vão ser resets.",
+   "note": "Tibo's post links the OpenAI Help Center article 'Using multiple ChatGPT accounts on web and mobile'. No official OpenAI/ChatGPT/Codex post is quoted and Tibo posted no follow-up replies in the thread.",
+   "url": "https://x.com/i/status/2116405414921384099",
+   "urls": [
+    "https://x.com/i/status/2116405414921384099",
+    "https://help.openai.com/en/articles/20001068-using-multiple-chatgpt-accounts-on-web-and-mobile"
+   ],
+   "items": [
+    {
+     "en": "You can now easily switch between multiple accounts on mobile.",
+     "pt": "Agora dá pra alternar facilmente entre várias contas no celular.",
+     "url": "https://x.com/i/status/2116405414921384099"
+    },
+    {
+     "en": "Multiple-account switching is coming soon to desktop too.",
+     "pt": "A troca entre várias contas também chega em breve no desktop.",
+     "url": "https://x.com/i/status/2116405414921384099"
+    },
+    {
+     "en": "Help Center: switch between ChatGPT accounts while keeping their conversations, billing, workspaces, and settings separate.",
+     "pt": "Central de Ajuda: alterne entre contas do ChatGPT mantendo conversas, cobrança, workspaces e configurações separados.",
+     "url": "https://help.openai.com/en/articles/20001068-using-multiple-chatgpt-accounts-on-web-and-mobile"
+    },
+    {
+     "en": "Teaser: \"Next two days will be resets… banked… do with this what you may 👀.\"",
+     "pt": "Spoiler: \"Next two days will be resets… banked…\" (os próximos dois dias vão ser resets, acumulados).",
+     "url": "https://x.com/i/status/2116405414921384099"
     }
    ]
   }
