@@ -30,10 +30,10 @@ footer{margin-top:28px;color:var(--mut);font-size:13px;display:flex;justify-cont
 const C={"speed":"#3ddc97","features":"#7c9cff","capacity/limits":"#ffb547","reliability":"#4cc9f0","reset":"#c38bff","pricing":"#ff6b8a"};
 const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 function render(d){
- const days=d.days.sort((a,b)=>a.day-b.day),done=Math.max(0,...days.map(x=>x.day));
+ const days=d.days.sort((a,b)=>a.day-b.day),done=Math.max(0,...days.map(x=>x.day)),complete=days.length===d.total&&done===d.total;
  sub.innerHTML=`Daily ships from <a href="https://x.com/thsottiaux">${d.author}</a> (OpenAI · Codex): one clear improvement or a full usage reset, every day for 28 days.`;
  ann.innerHTML=`📣 ${esc(d.announcement.text)} — <a href="${d.announcement.url}" target="_blank">announcement</a>`;
- bar.style.width=(done/d.total*100)+"%";pn.textContent=`Day ${done}/${d.total}`;
+ bar.style.width=(done/d.total*100)+"%";pn.textContent=`Day ${done}/${d.total}`+(complete?" · Series complete":"");
  const cnt={};days.forEach(x=>cnt[x.category]=(cnt[x.category]||0)+1);
  legend.innerHTML=Object.entries(cnt).map(([k,v])=>`<span class="chip" style="color:${C[k]||'#ccc'}">● ${k} · ${v}</span>`).join("");
  const by={};days.forEach(x=>by[x.day]=x);let h="";
@@ -41,7 +41,7 @@ function render(d){
   if(!x){h+=`<div class="card ph">${i<=done?'Day '+i+' · not found':'Day '+i+' · upcoming'}</div>`;continue}
   const c=C[x.category]||"#ccc";
   h+=`<div class="card ${x.category=='reset'?'reset':''}"><div class="n"><a href="${x.url}" target="_blank" style="color:inherit;text-decoration:none"><b>Day ${x.day} ↗</b></a><span>${x.date.slice(5,10).replace('-','/')}</span></div><p>${esc(x.en)}</p>${(x.items||[]).length?`<ul style="margin:0 0 10px;padding-left:18px;font-size:13px;color:#aeb7c6">${x.items.map(i=>`<li><a href="${i.url}" target="_blank" style="color:inherit">${esc(i.en)}</a></li>`).join("")}</ul>`:""}<span class="tag" style="color:${c};border:1px solid ${c}55">${x.category}</span></div>`}
- grid.innerHTML=h;upd.textContent=`Updated ${d.updated} ${d.timezone}`;
+ grid.innerHTML=h;upd.textContent=`Updated ${d.updated} ${d.timezone}`+(complete?" · Series complete":"");
 }
 fetch("data.json",{cache:"no-store"}).then(r=>r.json()).then(render).catch(()=>render(JSON.parse(embedded.textContent)));
 </script></body></html>
