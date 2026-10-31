@@ -3,7 +3,7 @@
  "author": "@thsottiaux",
  "compiled_by": "@TokenGremlin",
  "timezone": "BRT (UTC-3)",
- "updated": "2026-10-31 12:48",
+ "updated": "2026-10-31 19:46",
  "total": 28,
  "announcement": {
   "date": "2026-10-04 17:33",
@@ -956,9 +956,61 @@
      "pt": "Central de Ajuda: alterne entre contas do ChatGPT mantendo conversas, cobrança, workspaces e configurações separados.",
      "url": "https://help.openai.com/en/articles/20001068-using-multiple-chatgpt-accounts-on-web-and-mobile"
     },
-    {
+     {
      "en": "Teaser: \"Next two days will be resets… banked… do with this what you may 👀.\"",
      "pt": "Spoiler: \"Next two days will be resets… banked…\" (os próximos dois dias vão ser resets, acumulados).",
+     "url": "https://x.com/i/status/2116405414921384099"
+    }
+   ]
+  },
+  {
+   "day": 27,
+   "date": "2026-11-01",
+   "ids": [],
+   "category": "reset",
+   "text": "No separate post. Banked usage-limit reset announced in the Day 26 post.",
+   "en": "Banked usage reset for users, the first of the two resets teased on Day 26.",
+   "pt": "Reset de uso guardado para os usuários, o primeiro dos dois resets adiantados no Day 26.",
+   "note": "Banked reset: a usage-limit reset banked for users. No Day 27 post and no new post ID. Source is the Day 26 post. Dated Nov 1, 2026; time left as announced.",
+   "url": "https://x.com/i/status/2116405414921384099",
+   "urls": [
+    "https://x.com/i/status/2116405414921384099"
+   ],
+   "items": [
+    {
+     "en": "Banked usage-limit reset for users.",
+     "pt": "Reset de limite de uso guardado para os usuários.",
+     "url": "https://x.com/i/status/2116405414921384099"
+    },
+    {
+     "en": "Announced on Day 26: the next two days will be resets, banked.",
+     "pt": "Anunciado no Day 26: os próximos dois dias vão ser resets, acumulados.",
+     "url": "https://x.com/i/status/2116405414921384099"
+    }
+   ]
+  },
+  {
+   "day": 28,
+   "date": "2026-11-02",
+   "ids": [],
+   "category": "reset",
+   "text": "No separate post. Banked usage-limit reset announced in the Day 26 post.",
+   "en": "Banked usage reset for users, the second of the two resets teased on Day 26.",
+   "pt": "Reset de uso guardado para os usuários, o segundo dos dois resets adiantados no Day 26.",
+   "note": "Banked reset: a usage-limit reset banked for users. No Day 28 post and no new post ID. Source is the Day 26 post. Dated Nov 2, 2026; time left as announced. Series complete (28/28).",
+   "url": "https://x.com/i/status/2116405414921384099",
+   "urls": [
+    "https://x.com/i/status/2116405414921384099"
+   ],
+   "items": [
+    {
+     "en": "Banked usage-limit reset for users.",
+     "pt": "Reset de limite de uso guardado para os usuários.",
+     "url": "https://x.com/i/status/2116405414921384099"
+    },
+    {
+     "en": "Announced on Day 26: the next two days will be resets, banked.",
+     "pt": "Anunciado no Day 26: os próximos dois dias vão ser resets, acumulados.",
      "url": "https://x.com/i/status/2116405414921384099"
     }
    ]
